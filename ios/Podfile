@@ -1,10 +1,6 @@
 # Uncomment this line to define a global platform for your project
 platform :ios, '11.0'
 
-target 'Runner' do
-  use_frameworks!
-  use_modular_headers!
-end
 # CocoaPods analytics sends network stats synchronously affecting flutter build latency.
 ENV['COCOAPODS_DISABLE_STATS'] = 'true'
 
@@ -35,6 +31,7 @@ target 'Runner' do
   flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
   # PDFTron Pods
   use_frameworks!
+  use_modular_headers!
   pod 'PDFNet', podspec: 'https://www.pdftron.com/downloads/ios/cocoapods/pdfnet/latest.podspec'
 end
 
