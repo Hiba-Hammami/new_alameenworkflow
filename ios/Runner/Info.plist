@@ -8,6 +8,10 @@
 	<string>InAppWebView requires access to mic.</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>New Alameenhrworkflow</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -15,7 +19,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>flutter_inappwebview_example</string>
+	<string>new_alameenhrworkflow</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -72,6 +76,5 @@
 	<key>NSCameraUsageDescription</key>
 	<string>InAppWebView requires access to cam.</string>
 	<key>NSLocalNetworkUsageDescription</key>
-	<string>Allow Flutter tools on your computer to connect and debug your application.</string>
-</dict>
+	<string>Allow Flutter tools on your computer to connect and debug your application.</string></dict>
 </plist>
