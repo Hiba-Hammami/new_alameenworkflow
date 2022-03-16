@@ -7,6 +7,42 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:440769110378:android:a18201b64fe8f4f1354513",
+        "android_client_info": {
+          "package_name": "com.alameensoft.hrworkflow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440769110378-iujisc4fvi5kd43psit7cfri0rgdtlqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE0d4rVix-djvRCx2wAfG9DvEGnM4sgf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440769110378-iujisc4fvi5kd43psit7cfri0rgdtlqq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "440769110378-mcuie2pd761ki70asp3rpoqkgq257dmi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newAlameenhrworkflow"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:440769110378:android:5ec331d2544ccc90354513",
         "android_client_info": {
           "package_name": "com.example.alameenhrworkflow"
@@ -29,35 +65,13 @@
             {
               "client_id": "440769110378-iujisc4fvi5kd43psit7cfri0rgdtlqq.apps.googleusercontent.com",
               "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:440769110378:android:796fe4a2c9539268354513",
-        "android_client_info": {
-          "package_name": "com.example.new_alameenhrworkflow"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "440769110378-iujisc4fvi5kd43psit7cfri0rgdtlqq.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCE0d4rVix-djvRCx2wAfG9DvEGnM4sgf8"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
+            },
             {
-              "client_id": "440769110378-iujisc4fvi5kd43psit7cfri0rgdtlqq.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "440769110378-mcuie2pd761ki70asp3rpoqkgq257dmi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newAlameenhrworkflow"
+              }
             }
           ]
         }

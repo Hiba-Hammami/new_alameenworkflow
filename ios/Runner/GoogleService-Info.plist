@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>440769110378-mcuie2pd761ki70asp3rpoqkgq257dmi.apps.googleusercontent.com</string>
+	<string>440769110378-90e05jb40eo32qmjd36gjc76sgm73uqt.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.440769110378-mcuie2pd761ki70asp3rpoqkgq257dmi</string>
+	<string>com.googleusercontent.apps.440769110378-90e05jb40eo32qmjd36gjc76sgm73uqt</string>
 	<key>API_KEY</key>
 	<string>AIzaSyBRNxcCgMOSdEhr-4d_JJatNXni7BDkTMI</string>
 	<key>GCM_SENDER_ID</key>
@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.example.newAlameenhrworkflow</string>
+	<string>com.alameensoft.hrworkflow</string>
 	<key>PROJECT_ID</key>
 	<string>workflowproject-b8179</string>
 	<key>STORAGE_BUCKET</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:440769110378:ios:4f0523a5f8bfaeb6354513</string>
+	<string>1:440769110378:ios:8a8289d4a44027a8354513</string>
 </dict>
 </plist>
